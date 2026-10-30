@@ -9,7 +9,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  color: #23354d;
+  color: #17485a;
   background-color: #f1f5f9;
   line-height: 1.6;
 }
@@ -87,13 +87,13 @@ p {
   background-color: rgb(60, 185, 178);
   border-radius: 12px;
   border: 1px solid #e2e8f0;
-  box-shadow: 0 3px 8px rgb(15 23 42 / 4%);
+  box-shadow: 0 3px 8px rgba(220, 85, 166, 0.04);
 }
 
 .summary-card p {
   margin-bottom: 8px;
   font-size: 14px;
-  color: #64748b;
+  color: #8b646d;
 }
 
 .summary-card h2 {
@@ -134,7 +134,7 @@ p {
 .section-heading h2 {
   margin-bottom: 4px;
   font-size: 20px;
-  color: #0f172a;
+  color: #1a2a0f;
 }
 
 .section-heading p {
@@ -164,7 +164,7 @@ p {
 .search-box label {
   font-size: 14px;
   font-weight: 600;
-  color: #334155;
+  color: #fdfdfd;
 }
 
 .form-group input,
@@ -197,7 +197,7 @@ p {
 }
 
 .btn-primary {
-  background-color: #2563eb;
+  background-color: #503fad;
   color: white;
 }
 

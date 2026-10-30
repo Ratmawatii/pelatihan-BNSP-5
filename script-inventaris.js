@@ -210,7 +210,7 @@ function tampilkanData() {
   const hasilPencarian = daftarBarang.filter(function (barang) {
     return (
       barang.kode.toLowerCase().includes(kataKunci) ||
-      barang.nama.toLowerCase().includes(kataKunci)
+      barang.nama.toLowerCase().includes(kataKunci) 
     );
   });
 
